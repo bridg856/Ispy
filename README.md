@@ -215,4 +215,4 @@ iSpy is the full free version of the software, providing you all features and up
 Take control of your security today! Download iSpy for free and experience the full power of surveillance at your fingertips.
 
 ---
-**Last updated:** 2026-09-19 05:15:21 UTC
+**Last updated:** 2026-09-19 09:53:42 UTC
